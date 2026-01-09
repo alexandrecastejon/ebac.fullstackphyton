@@ -36,3 +36,23 @@ coverage/
 
 # Optional eslint cache
 .eslintcache
+
+# --------------------
+# Python
+# --------------------
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+ENV/
+env/
+
+# --------------------
+# Build artifacts
+# --------------------
+dist/
+build/

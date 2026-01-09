@@ -1,0 +1,33 @@
+@use 'variaveis';
+
+.shows {
+    padding: 2vw 5.6vw;
+
+    &__list{
+        margin-top: 44px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 24px;
+        list-style: none;
+        
+
+        &__item {
+            
+            img {
+                max-width: 100%;
+                border-radius: 4px;
+                
+            }
+        }
+    }
+
+    &__tabs {
+        display: flex;
+        justify-content: center;
+        color: variaveis.$corTextoPrincipal;
+        font-size: 20px;
+        padding-bottom: 5px;
+        background: none;
+        margin: 0 1vw;
+    }
+}

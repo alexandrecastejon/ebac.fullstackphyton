@@ -1,0 +1,28 @@
+@use 'variaveis';
+
+.hero {
+    padding: 5.6vw;
+    min-height: 80vh;
+    background-image: url('../images/hero_doc_marty.jpg');
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+
+    &__content {
+        max-width: 640px;
+
+        &__branding {
+            max-width: 320px;
+            margin: 0 10px 40px 110px;
+        }
+
+        .title--small {
+            margin-bottom: 64px;
+        }
+
+        p {
+            margin-bottom: 20px;
+            
+        }
+    }
+}
