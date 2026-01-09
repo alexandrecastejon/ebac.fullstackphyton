@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "javascript",
+			"path": "..\\curso-frontend\\javascript"
+		},
+		{
+			"name": "curso-frontend",
+			"path": "..\\curso-frontend\\curso-frontend"
+		},
+		{
+			"name": "alexandrecastejon",
+			"path": "..\\curso-frontend\\alexandrecastejon"
+		},
+		{
+			"name": "bootstrap",
+			"path": "..\\curso-frontend\\bootstrap"
+		}
+	],
+	"settings": {}
+}

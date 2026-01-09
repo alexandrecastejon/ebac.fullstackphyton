@@ -1,0 +1,96 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #e15f41;
+}
+
+.nav .nav-link.active {
+    background-color: #fff;
+    color: #e15f41;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: Pacifico, cursive;
+}
+
+.container {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #e15f41;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.sobre-o-bar {
+    text-align: left;
+    margin-top: 50px;
+}
+
+.sobre-o-bar img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.sobre-o-bar p {
+    font-size: 1.2em;
+    color: #333;
+}
+
+.cardapio {
+    text-align: left;
+    margin-top: 50px;
+}
+
+.cardapio h3 {
+    color: #e15f41;
+}
+
+.cardapio .card {
+    margin-bottom: 20px;
+}
+
+.cardapio .card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.cardapio .btn-primary {
+    background-color: #e15f41;
+    border-color: #e15f41;
+}
+
+.cardapio .btn-primary:hover {
+    background-color: #d14e36;
+    border-color: #d14e36;
+}
+
+.fale-conosco {
+    text-align: left;
+    margin-top: 50px;
+}
+
+.fale-conosco .form-label {
+    font-weight: bold;
+}
+
+.fale-conosco .social-links a {
+    margin-right: 10px;
+}
