@@ -1,1 +1,0 @@
-Repositório de exercícios EBAC
